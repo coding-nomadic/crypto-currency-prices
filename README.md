@@ -12,7 +12,14 @@ http://localhost:9092
 
 ## Prerequisite for the Apache Kafka - 
 
-Download zip and install by refering this [link]([https://www.google.com](https://www.geeksforgeeks.org/how-to-install-and-run-apache-kafka-on-windows/))
+Download the zip and install by referring this [link](https://www.geeksforgeeks.org/how-to-install-and-run-apache-kafka-on-windows/)
+
+Inside the Kafka folder run this command to create a topic - 
+
+```
+.\bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic currency-topic
+```
+
 
 
 
