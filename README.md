@@ -12,7 +12,7 @@ http://localhost:9092
 
 ## Prerequisite for the Apache Kafka - 
 
-Download zip and install by refering this [link ]([https://apilayer.com/marketplace/exchangerates_data-api](https://www.geeksforgeeks.org/how-to-install-and-run-apache-kafka-on-windows/))
+Download zip and install by refering this [link]([https://www.google.com](https://www.geeksforgeeks.org/how-to-install-and-run-apache-kafka-on-windows/))
 
 
 
