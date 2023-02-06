@@ -1,0 +1,5 @@
+
+api_key: OEsQisxnXRnBT4Kgj3mBhK64L3E9nymV
+convert_url: https://api.apilayer.com/exchangerates_data/convert?to=%s&from=%s&amount=%s
+fluctuate_url: https://api.apilayer.com/exchangerates_data/fluctuation?start_date=%s&end_date=%s
+
