@@ -45,7 +45,7 @@ def fluctuate_currency(start_date,end_date):
     return response.json()
 
 
-# send message to Kafka Topic
+# send message to Kafka Topic with a schedular with every 20 seconds.
 def publish_message():
     topic_name=app.config['kafka_topic']
     endpoint_url=app.config['topic_api_url']
