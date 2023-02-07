@@ -20,6 +20,10 @@ Inside the Kafka folder run this command to create a topic -
 .\bin\windows\kafka-console-producer.bat --broker-list localhost:9092 --topic currency-topic
 ```
 
+## Project High Level Design - 
+
+![diagram](https://user-images.githubusercontent.com/8009104/217295858-3e59fc83-af8b-4c7f-82e1-7b119fd7baf2.png)
+
 
 
 
