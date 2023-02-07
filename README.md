@@ -1,5 +1,5 @@
 
-## Currency-conversion-service
+## Currency-Conversion-Service
 
 This application is built using python framework (Flask) which internally uses free currency converter API [link ](https://apilayer.com/marketplace/exchangerates_data-api). 
 
