@@ -3,7 +3,9 @@
 
 This application is built using python framework (Flask) which internally uses free currency converter API [link ](https://apilayer.com/marketplace/exchangerates_data-api). 
 
-This service also calls one API to convert from INR to EUR and sends message to Kakfa Topic, to show the real time integration on Dashboard UI which will be built using websocket, angular with chart JS and material UI. 
+This service also calls one API to convert from INR to EUR and sends message to Kakfa Topic, to show the real time integration on Dashboard UI which will be built using 
+
+websocket, angular with chart JS and material UI. 
 
 There should be a running ocal instance Apache Kafka instance on - 
 
