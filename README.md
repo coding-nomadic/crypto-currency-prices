@@ -1,7 +1,7 @@
 
 ## Currency-Conversion-Service
 
-This application is built using Oython, Web socket and angular for real time data visualization.
+This application is built using Python, Web socket and Angular for Real Time Data Visualization.
 
 
 ## Project High Level Design - 
