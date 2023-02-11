@@ -3,7 +3,7 @@
 
 This application is built using Python, Web socket and Angular for Real Time Data Visualization.
 
-![currency](https://user-images.githubusercontent.com/8009104/217798485-fc8d8bc9-1dc4-4d0a-ba78-d333674471ca.png)
+![image](https://user-images.githubusercontent.com/8009104/218271868-e8e7d74b-91e0-4fd2-b207-a73fa2c97f33.png)
 
 
 
