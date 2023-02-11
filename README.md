@@ -3,7 +3,7 @@
 
 This application is built using Python, Web socket, Angular with Material UI for the User Interface.
 
-![image](https://user-images.githubusercontent.com/8009104/218271868-e8e7d74b-91e0-4fd2-b207-a73fa2c97f33.png)
+![image](https://user-images.githubusercontent.com/8009104/218273974-a3ef88c0-97d4-459c-9b80-03ed22d36ea4.png)
 
 ![image](https://user-images.githubusercontent.com/8009104/218271917-f215b88f-9369-4873-9396-455f28f9eacb.png)
 
