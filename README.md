@@ -1,7 +1,7 @@
 
 ## Currency-Conversion-Service
 
-This application is built using Python, Web socket and Angular for Real Time Data Visualization.
+This application is built using Python, Web socket, Angular with Material UI for the User Interface.
 
 ![image](https://user-images.githubusercontent.com/8009104/218271868-e8e7d74b-91e0-4fd2-b207-a73fa2c97f33.png)
 
